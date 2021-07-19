@@ -1,7 +1,8 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://affiliatemarketingbyam.blogspot.com",
+//"HOMEURL" : "https://affiliatemarketingbyam.blogspot.com",
+"HOMEURL" : "https://google.com",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready",
